@@ -1,0 +1,9 @@
+
+.about__logo {
+    border-radius: 50%;
+}
+
+.about__description {
+    font-size: 14px;
+    font-style: italic;
+}
