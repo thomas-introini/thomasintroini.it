@@ -2,7 +2,7 @@ baseUrl = "https://www.thomasintroini.it/"
 languageCode = 'en-us'
 title = "/home/thomas"
 author = "Thomas Introini"
-copyright = "© 2023 Thomas Introini"
+copyright = "Thomas Introini"
 theme = "risotto"
 paginate = 3
 DefaultContentLanguage = "en"
@@ -48,11 +48,6 @@ url = "mailto:thomas.introini@gmail.com"
     name = "About"
     url = "/about/"
     weight = 10
-  [[menu.main]]
-    identifier = "books"
-    name = "Books"
-    url = "/books/"
-    weight = 100
 
 [taxonomies]
 category = "categories"
